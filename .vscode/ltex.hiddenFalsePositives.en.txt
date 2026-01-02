@@ -1,0 +1,2 @@
+{"rule":"CURRENCY","sentence":"^\\QWe start from the planner's problem \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q$ subject to the resource constraint\\E$"}
+{"rule":"CURRENCY","sentence":"^\\QUsing the linearity of the expecation operator we have \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q$.\\E$"}
